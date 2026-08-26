@@ -1,16 +1,14 @@
-# 👋🧩 Morphe Patches template
+# 👋🧩 jackblk's Morphe Patches
 
-Template repository for Morphe Patches.
+jackblk's personal collection of Morphe patches.
 
 ## ❓ About
 
-Patches for apps I like.
-
-<!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
+A personal collection of Morphe patches for Android apps I use.
 
 ### How to use these patches
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=xyz-user/xyz-patches
+Click here to add these patches to Morphe: https://morphe.software/add-source?github=jackblk/morphe-patches
 
 ## 🩹 Patches list
 
@@ -88,4 +86,4 @@ See the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation
 
 ## 📜 License
 
-UserXYZ Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+jackblk Patches are licensed under the [GNU General Public License v3.0](LICENSE)
